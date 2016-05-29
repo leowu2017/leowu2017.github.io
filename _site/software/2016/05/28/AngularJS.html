@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Po Jui (Leo) Wu</title>
-  <meta name="description" content="This is a Po Jui (Leo) Wu's personal website.
-">
+  <title>AngularJS</title>
+  <meta name="description" content="">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://billy1341.github.io/">
+  <link rel="canonical" href="http://billy1341.github.io/software/2016/05/28/AngularJS.html">
   <link rel="alternate" type="application/rss+xml" title="Po Jui (Leo) Wu" href="http://billy1341.github.io/feed.xml">
 </head>
 
@@ -55,33 +54,28 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">AngularJS</h1>
+    <p class="post-meta"><time datetime="2016-05-28T00:00:00-04:00" itemprop="datePublished">May 28, 2016</time></p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">May 28, 2016</span>
+  <div class="post-content" itemprop="articleBody">
+    <script src="http://billy1341.github.io/assets/angular.min.js"></script>
 
-        <h2>
-          <a class="post-link" href="/software/2016/05/28/Jekyll.html">Jekyll - Static Blog Website</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">May 28, 2016</span>
+<script src="http://localhost:4000/assets/angular.min.js"></script>
 
-        <h2>
-          <a class="post-link" href="/software/2016/05/28/AngularJS.html">AngularJS</a>
-        </h2>
-      </li>
-    
-  </ul>
+<div ng-app="">
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>Hello<span ng-show="name.length">, </span><span ng-bind="name"></span>!</p>
 
+<p>Name: <input type="text" ng-model="name" /></p>
 </div>
+
+  </div>
+
+</article>
 
       </div>
     </div>
