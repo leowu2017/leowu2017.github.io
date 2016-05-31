@@ -14,6 +14,7 @@ permalink: /about/
 
 <h1>Skills</h1>
 - **Programming Language**: C++, Python, Matlab, Objective C, Linux
+- **Web Language**: HTML5, CSS, jQuery, javascript, AngularJS, PHP, ROR, Django, MySQL
 - **Engineering & Algorithm**: Digital Signal Processing, Adaptive Signal Processing
 - **Mathematics**: Calculus, Linear Algebra
 - **Language**: Chinese, English
