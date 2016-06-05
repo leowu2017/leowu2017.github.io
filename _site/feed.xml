@@ -4,10 +4,10 @@
     <title>Po Jui (Leo) Wu</title>
     <description>This is a Po Jui (Leo) Wu&#39;s personal website.
 </description>
-    <link>http://billy1341.github.io/</link>
-    <atom:link href="http://billy1341.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 May 2016 09:32:08 -0400</pubDate>
-    <lastBuildDate>Tue, 31 May 2016 09:32:08 -0400</lastBuildDate>
+    <link>http://leowu2017.github.io/</link>
+    <atom:link href="http://leowu2017.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 05 Jun 2016 12:42:50 -0400</pubDate>
+    <lastBuildDate>Sun, 05 Jun 2016 12:42:50 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://railsconf2015-aws.s3-website-us-east-1.amazonaws.com/&quot;&gt;RailsConf2015&lt;/a&gt; - &lt;a href=&quot;https://youtu.be/OQoYTeGJYf4&quot;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 May 2016 00:00:00 -0400</pubDate>
-        <link>http://billy1341.github.io/software/2016/05/29/AWS-ROR.html</link>
-        <guid isPermaLink="true">http://billy1341.github.io/software/2016/05/29/AWS-ROR.html</guid>
+        <link>http://leowu2017.github.io/software/2016/05/29/AWS-ROR.html</link>
+        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/05/29/AWS-ROR.html</guid>
         
         
         <category>software</category>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 -0400</pubDate>
-        <link>http://billy1341.github.io/software/2016/05/28/Jekyll.html</link>
-        <guid isPermaLink="true">http://billy1341.github.io/software/2016/05/28/Jekyll.html</guid>
+        <link>http://leowu2017.github.io/software/2016/05/28/Jekyll.html</link>
+        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/05/28/Jekyll.html</guid>
         
         
         <category>software</category>
@@ -43,7 +43,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS link&lt;/a&gt;&lt;/p&gt;
 
-&lt;script src=&quot;http://billy1341.github.io/assets/angular.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://leowu2017.github.io/assets/angular.min.js&quot;&gt;&lt;/script&gt;
 
 &lt;div ng-app=&quot;&quot;&gt;
 
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 -0400</pubDate>
-        <link>http://billy1341.github.io/software/2016/05/28/AngularJS.html</link>
-        <guid isPermaLink="true">http://billy1341.github.io/software/2016/05/28/AngularJS.html</guid>
+        <link>http://leowu2017.github.io/software/2016/05/28/AngularJS.html</link>
+        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/05/28/AngularJS.html</guid>
         
         
         <category>software</category>
