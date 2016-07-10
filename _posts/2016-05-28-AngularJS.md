@@ -5,9 +5,7 @@ date:   2016-05-28 00:00:00 -0400
 categories: software
 ---
 
-*Please contact me by <billy1341@gmail.com> if you are interested in AngularJS and want to make some projects*
-
-[AngularJS link](https://angularjs.org/)
+[AngularJS link](https://angularjs.org/){:target="_blank"}
 
 <script src="{{site.url}}/assets/angular.min.js"></script>
 
