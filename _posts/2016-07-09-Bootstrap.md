@@ -192,25 +192,25 @@ categories: software
 <div class="container-fluid">
 <div class="row">
 
-<div class="col-md-6 col-md-offset-6">
+<div class="col-md-8 col-md-offset-2">
 <table class="table table-bordered table-striped table-hover">
 <thead>
 <tr>
-<th class="text-center">name</th>
-<th class="text-center">value</th>
+<th class="text-center">Name</th>
+<th class="text-center">Age</th>
 </tr>
 </thead>
 <tr>
-<td>a</td>
-<td>1</td>
+<td>Alice</td>
+<td>23</td>
 </tr>
 <tr>
-<td>b</td>
-<td>2</td>
+<td>Bill</td>
+<td>47</td>
 </tr>
 <tr>
-<td>c</td>
-<td>3</td>
+<td>Catherine</td>
+<td>35</td>
 </tr>
 </table>
 </div>
@@ -222,25 +222,25 @@ categories: software
 <div class="container-fluid">
 <div class="row">
 
-<div class="col-md-6 col-md-offset-6">
+<div class="col-md-8 col-md-offset-2">
 <table class="table table-bordered table-striped table-hover">
 <thead>
 <tr>
-<th class="text-center">name</th>
-<th class="text-center">value</th>
+<th class="text-center">Name</th>
+<th class="text-center">Age</th>
 </tr>
 </thead>
 <tr>
-<td>a</td>
-<td>1</td>
+<td>Alice</td>
+<td>23</td>
 </tr>
 <tr>
-<td>b</td>
-<td>2</td>
+<td>Bill</td>
+<td>47</td>
 </tr>
 <tr>
-<td>c</td>
-<td>3</td>
+<td>Catherine</td>
+<td>35</td>
 </tr>
 </table>
 </div>
