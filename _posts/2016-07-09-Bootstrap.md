@@ -6,6 +6,7 @@ categories: software
 ---
 
 + [Bootstrap website](http://getbootstrap.com/){:target="_blank"}
++ [w3schools](http://www.w3schools.com/bootstrap/default.asp){:target="_blank"}
 + **This demo is made from a [Youtube tutorial - by Derek Banas](https://youtu.be/gqOEoUR5RHg){:target="_blank"}**
 
 <!-- Bootstrap -->
@@ -244,6 +245,174 @@ categories: software
 </tr>
 </table>
 </div>
+
+</div>
+</div>
+{% endhighlight %}
+
+<h2>3. Carousel</h2>
+
+<style>
+.slide {
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slide1 {
+	background-image: url(http://c7.staticflickr.com/6/5057/5393392294_a08975b832_b.jpg);
+
+}
+.slide2 {
+	background-image: url(http://c5.staticflickr.com/9/8754/16910348444_895262b1b9_k.jpg);
+}
+.slide3 {
+	background-image: url(http://c5.staticflickr.com/2/1700/24422557244_60feff8dfc_k.jpg);
+}
+</style>
+
+<div id="slideshow" class="carousel slide" data-ride="carousel">
+
+<ol class="carousel-indicators">
+<li data-target="#slideshow" data-slide-to="0" class="active"></li>
+<li data-target="#slideshow" data-slide-to="1"></li>
+<li data-target="#slideshow" data-slide-to="2"></li>
+</ol>
+
+<div class="carousel-inner">
+	<div class="item active">
+		<div class="slide slide1"></div>
+		<div class="carousel-caption">
+			<h1>Slide 1</h1>
+		</div>
+	</div>
+	<div class="item">
+		<div class="slide slide2"></div>
+		<div class="carousel-caption">
+			<h1>Slide 2</h1>
+		</div>
+	</div>
+	<div class="item">
+		<div class="slide slide3"></div>
+		<div class="carousel-caption">
+			<h1>Slide3</h1>
+		</div>
+	</div>
+</div>
+
+<a class="left carousel-control" href="#slideshow" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left"></span>
+</a>
+
+<a class="right carousel-control" href="#slideshow" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right"></span>
+</a>
+
+</div>
+
+{% highlight html %}
+<style>
+.slide {
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slide1 {
+	background-image: url(http://c7.staticflickr.com/6/5057/5393392294_a08975b832_b.jpg);
+
+}
+.slide2 {
+	background-image: url(http://c5.staticflickr.com/9/8754/16910348444_895262b1b9_k.jpg);
+}
+.slide3 {
+	background-image: url(http://c5.staticflickr.com/2/1700/24422557244_60feff8dfc_k.jpg);
+}
+</style>
+
+<div id="slideshow" class="carousel slide" data-ride="carousel">
+
+<ol class="carousel-indicators">
+<li data-target="#slideshow" data-slide-to="0" class="active"></li>
+<li data-target="#slideshow" data-slide-to="1"></li>
+<li data-target="#slideshow" data-slide-to="2"></li>
+</ol>
+
+<div class="carousel-inner">
+	<div class="item active">
+		<div class="slide slide1"></div>
+		<div class="carousel-caption">
+			<h1>Slide 1</h1>
+		</div>
+	</div>
+	<div class="item">
+		<div class="slide slide2"></div>
+		<div class="carousel-caption">
+			<h1>Slide 2</h1>
+		</div>
+	</div>
+	<div class="item">
+		<div class="slide slide3"></div>
+		<div class="carousel-caption">
+			<h1>Slide3</h1>
+		</div>
+	</div>
+</div>
+
+<a class="left carousel-control" href="#slideshow" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left"></span>
+</a>
+
+<a class="right carousel-control" href="#slideshow" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right"></span>
+</a>
+
+</div>
+{% endhighlight %}
+
+<h2>4. Dropdown Menu</h2>
+
+<div class="container-fluid">
+<div class="dropdown">
+
+<button class="btn btn-primary btn-lg dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Favorite Hero
+<span class="caret"></span>
+</button>
+
+<ul class="dropdown-menu">
+<li class="dropdown-header">Marvel</li>
+<li><a>Spiderman</a></li>
+<li><a>Captain America</a></li>
+<li><a>Iron Man</a></li>
+<li role="separator" class="divider"></li>
+<li class="dropdown-header">DC</li>
+<li class="disabled"><a>Superman</a></li>
+<li><a>Batman</a></li>
+<li><a>Flash</a></li>
+</ul>
+
+</div>
+</div>
+
+{% highlight html %}
+<div class="container-fluid">
+<div class="dropdown">
+
+<button class="btn btn-primary btn-lg dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Favorite Hero
+<span class="caret"></span>
+</button>
+
+<ul class="dropdown-menu">
+<li class="dropdown-header">Marvel</li>
+<li><a>Spiderman</a></li>
+<li><a>Captain America</a></li>
+<li><a>Iron Man</a></li>
+<li role="separator" class="divider"></li>
+<li class="dropdown-header">DC</li>
+<li class="disabled"><a>Superman</a></li>
+<li><a>Batman</a></li>
+<li><a>Flash</a></li>
+</ul>
 
 </div>
 </div>
