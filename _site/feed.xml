@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Po-Jui (Leo) Wu</title>
-    <description>This is a Po-Jui (Leo) Wu&#39;s personal website.
+    <description>This is a Po-Jui (Leo) Wu's personal website.
 </description>
-    <link>http://leowu2017.github.io/</link>
-    <atom:link href="http://leowu2017.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2016 13:51:32 -0400</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2016 13:51:32 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Mar 2017 12:01:24 +0800</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 12:01:24 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.2</generator>
     
       <item>
         <title>Bootstrap Demo</title>
@@ -19,7 +19,7 @@
 &lt;/ul&gt;
 
 &lt;!-- Bootstrap --&gt;
-&lt;link href=&quot;http://leowu2017.github.io/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot; /&gt;
+&lt;link href=&quot;http://localhost:4000/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot; /&gt;
 
 &lt;h2&gt;1. Button&lt;/h2&gt;
 
@@ -94,7 +94,7 @@
 	&lt;h4&gt;&lt;a href=&quot;#col2Content&quot; data-toggle=&quot;collapse&quot;&gt;Column 2&lt;/a&gt;&lt;/h4&gt;
 
 	&lt;div id=&quot;col2Content&quot; class=&quot;collapse&quot;&gt;
-		Bootstrap uses Autoprefixer to deal with CSS vendor prefixes. If you&#39;re compiling Bootstrap from its Less/Sass source and not using our Gruntfile, you&#39;ll need to integrate Autoprefixer into your build process yourself. If you&#39;re using precompiled Bootstrap or using our Gruntfile, you don&#39;t need to worry about this because Autoprefixer is already integrated into our Gruntfile.
+		Bootstrap uses Autoprefixer to deal with CSS vendor prefixes. If you're compiling Bootstrap from its Less/Sass source and not using our Gruntfile, you'll need to integrate Autoprefixer into your build process yourself. If you're using precompiled Bootstrap or using our Gruntfile, you don't need to worry about this because Autoprefixer is already integrated into our Gruntfile.
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -102,14 +102,14 @@
 
 &lt;div class=&quot;col-lg-3 col-md-6 col-sm-6 col-xs-12&quot;&gt;
 	&lt;h4&gt;Column 3&lt;/h4&gt;
-		Bootstrap is downloadable in two forms, within which you&#39;ll find the following directories and files, logically grouping common resources and providing both compiled and minified variations.
+		Bootstrap is downloadable in two forms, within which you'll find the following directories and files, logically grouping common resources and providing both compiled and minified variations.
 &lt;/div&gt;
 
 &lt;div class=&quot;col-lg-3 col-md-6 col-sm-6 col-xs-12&quot;&gt;
 	&lt;h4&gt;&lt;a href=&quot;#col4Content&quot; data-toggle=&quot;collapse&quot;&gt;Column 4&lt;/a&gt;&lt;/h4&gt;
 
 	&lt;div id=&quot;col4Content&quot; class=&quot;collapse&quot;&gt;
-		Bootstrap uses Grunt for its build system, with convenient methods for working with the framework. It&#39;s how we compile our code, run tests, and more.
+		Bootstrap uses Grunt for its build system, with convenient methods for working with the framework. It's how we compile our code, run tests, and more.
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -131,7 +131,7 @@
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;h4&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#col2Content&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-toggle=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;collapse&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Column 2&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/h4&amp;gt;&lt;/span&gt;
 
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;col2Content&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;collapse&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-		Bootstrap uses Autoprefixer to deal with CSS vendor prefixes. If you&#39;re compiling Bootstrap from its Less/Sass source and not using our Gruntfile, you&#39;ll need to integrate Autoprefixer into your build process yourself. If you&#39;re using precompiled Bootstrap or using our Gruntfile, you don&#39;t need to worry about this because Autoprefixer is already integrated into our Gruntfile.
+		Bootstrap uses Autoprefixer to deal with CSS vendor prefixes. If you're compiling Bootstrap from its Less/Sass source and not using our Gruntfile, you'll need to integrate Autoprefixer into your build process yourself. If you're using precompiled Bootstrap or using our Gruntfile, you don't need to worry about this because Autoprefixer is already integrated into our Gruntfile.
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 
@@ -139,14 +139,14 @@
 
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;col-lg-3 col-md-6 col-sm-6 col-xs-12&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;h4&amp;gt;&lt;/span&gt;Column 3&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h4&amp;gt;&lt;/span&gt;
-		Bootstrap is downloadable in two forms, within which you&#39;ll find the following directories and files, logically grouping common resources and providing both compiled and minified variations.
+		Bootstrap is downloadable in two forms, within which you'll find the following directories and files, logically grouping common resources and providing both compiled and minified variations.
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;col-lg-3 col-md-6 col-sm-6 col-xs-12&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;h4&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#col4Content&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-toggle=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;collapse&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Column 4&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/h4&amp;gt;&lt;/span&gt;
 
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;col4Content&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;collapse&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-		Bootstrap uses Grunt for its build system, with convenient methods for working with the framework. It&#39;s how we compile our code, run tests, and more.
+		Bootstrap uses Grunt for its build system, with convenient methods for working with the framework. It's how we compile our code, run tests, and more.
 	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 
@@ -415,16 +415,16 @@
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;!-- jQuery (necessary for Bootstrap&#39;s JavaScript plugins) --&gt;
-&lt;script src=&quot;http://leowu2017.github.io/assets/js/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;!-- jQuery (necessary for Bootstrap's JavaScript plugins) --&gt;
+&lt;script src=&quot;http://localhost:4000/assets/js/jquery.min.js&quot;&gt;&lt;/script&gt;
 
 &lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
-&lt;script src=&quot;http://leowu2017.github.io/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://localhost:4000/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sat, 09 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://leowu2017.github.io/software/2016/07/09/Bootstrap.html</link>
-        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/07/09/Bootstrap.html</guid>
+        <pubDate>Sat, 09 Jul 2016 12:00:00 +0800</pubDate>
+        <link>http://localhost:4000/software/2016/07/09/Bootstrap.html</link>
+        <guid isPermaLink="true">http://localhost:4000/software/2016/07/09/Bootstrap.html</guid>
         
         
         <category>software</category>
@@ -435,9 +435,9 @@
         <title>Deploy ROR on AWS</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://railsconf2015-aws.s3-website-us-east-1.amazonaws.com/&quot; target=&quot;_blank&quot;&gt;RailsConf2015&lt;/a&gt; - &lt;a href=&quot;https://youtu.be/OQoYTeGJYf4&quot; target=&quot;_blank&quot;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 29 May 2016 00:00:00 -0400</pubDate>
-        <link>http://leowu2017.github.io/software/2016/05/29/AWS-ROR.html</link>
-        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/05/29/AWS-ROR.html</guid>
+        <pubDate>Sun, 29 May 2016 12:00:00 +0800</pubDate>
+        <link>http://localhost:4000/software/2016/05/29/AWS-ROR.html</link>
+        <guid isPermaLink="true">http://localhost:4000/software/2016/05/29/AWS-ROR.html</guid>
         
         
         <category>software</category>
@@ -449,9 +449,9 @@
         <description>&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll Website&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 28 May 2016 00:00:00 -0400</pubDate>
-        <link>http://leowu2017.github.io/software/2016/05/28/Jekyll.html</link>
-        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/05/28/Jekyll.html</guid>
+        <pubDate>Sat, 28 May 2016 12:00:00 +0800</pubDate>
+        <link>http://localhost:4000/software/2016/05/28/Jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/software/2016/05/28/Jekyll.html</guid>
         
         
         <category>software</category>
@@ -462,7 +462,7 @@
         <title>AngularJS Demo</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://angularjs.org/&quot; target=&quot;_blank&quot;&gt;AngularJS link&lt;/a&gt;&lt;/p&gt;
 
-&lt;script src=&quot;http://leowu2017.github.io/assets/angular.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://localhost:4000/assets/angular.min.js&quot;&gt;&lt;/script&gt;
 
 &lt;div ng-app=&quot;&quot;&gt;
 
@@ -473,9 +473,9 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 28 May 2016 00:00:00 -0400</pubDate>
-        <link>http://leowu2017.github.io/software/2016/05/28/AngularJS.html</link>
-        <guid isPermaLink="true">http://leowu2017.github.io/software/2016/05/28/AngularJS.html</guid>
+        <pubDate>Sat, 28 May 2016 12:00:00 +0800</pubDate>
+        <link>http://localhost:4000/software/2016/05/28/AngularJS.html</link>
+        <guid isPermaLink="true">http://localhost:4000/software/2016/05/28/AngularJS.html</guid>
         
         
         <category>software</category>
